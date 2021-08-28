@@ -1,0 +1,13 @@
+{
+    "ProfileTitle" : "Profile",
+    "Name": "Name",
+    "Message_Entername": "Enter field 'Name'",
+    "Bill": "Bill",
+    "Message_Enterbill": "Enter field 'Bill'",
+    "Update": "Update",
+    "Menu_Bill": "Bill",
+    "Menu_History": "History",
+    "Menu_Planning": "Planning",
+    "Menu_NewRecord": "New Record",
+    "Menu_Categories": "Categories"
+}
